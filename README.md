@@ -47,4 +47,3 @@ Case Study Related to Supply Chain & Inventory Management
 				1. Build predictive model to predict the sales (Hint: You are required to aggregate the data at customer level. It means that one record for one customer)										
 				2. Prepare end to end code with proper comments										
 				3. Derive insights as per the models										
-![image](https://github.com/SameerDhumal/Integrated_case_study_PYTHON/assets/145559776/d9002463-d64a-4001-8424-cac252971ca0)
