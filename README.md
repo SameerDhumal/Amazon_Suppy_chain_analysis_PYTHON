@@ -1,4 +1,4 @@
-                                                                   Case Study Related to Supply Chain & Inventory Management
+Case Study Related to Supply Chain & Inventory Management
 
  1. Perform below analysis													
 			a. Data Audit: Calculate Below metrics 										
