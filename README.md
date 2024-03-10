@@ -10,6 +10,11 @@ Utilize Exploratory Data Analysis (EDA) and predictive modeling algorithms in Py
 
 ** Description:**
 
+Heatmap :
+
+![image](https://github.com/SameerDhumal/Integrated_case_study_PYTHON/assets/145559776/fea24c6e-e37e-4494-9313-450ba1730ec1)
+
+
 a. Data Exploration : (15%)
 
 Explore data dimensions: number of rows and columns.
@@ -45,8 +50,16 @@ d. Visualization : (15%)
 Create visualizations of the analysis, including sample reports and metrics provided as reference.
 Generate additional visualizations beyond the provided sample reports and metrics.
 
+Sales within year , cpmpared with average sales 
+![image](https://github.com/SameerDhumal/Integrated_case_study_PYTHON/assets/145559776/dfe6f6f2-0ed7-4a38-9732-c5b0f3a7b458)
+
+
 e. Predictive Modeling : (20%)
 
 Build a predictive model to forecast sales, aggregating data at the customer level.
 Prepare end-to-end code with proper comments.
 Derive insights from the predictive models
+
+mse and rsme for train test 
+![image](https://github.com/SameerDhumal/Integrated_case_study_PYTHON/assets/145559776/5a47858a-d1d5-49bc-a58a-b3f09addfa41)
+
